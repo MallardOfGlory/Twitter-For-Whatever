@@ -44,3 +44,7 @@ To head back to tweeting, just do the opposite of this
 Questions, concerns? Dm me on twitter @mallardofglory
 
 Also this program is like 2 years old, im fairly certain some of this code is not mine, I just dont know where I got it from. If you find something similar, dm me on twitter so I can add the proper credits. 
+
+
+
+These api keys have been revoked, dont bother using them. The ones in the program are to show what they look like incase you get stuck. 
