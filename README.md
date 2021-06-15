@@ -41,6 +41,13 @@ then you need to head down to the bottom of the program and put a # in front of 
 
 To head back to tweeting, just do the opposite of this
 
+# Images
+To do images, add # infront of all of the ways to tweet besides the first one. 
+
+![image](https://user-images.githubusercontent.com/65434066/121989605-bbf92300-cddf-11eb-8fc5-6219780bf0e2.png)
+
+If you dont, it will tweet out multiple times. Currently images are only with actual tweets, replying will come soon but I want to play fortnite so im putting it off. 
+
 Questions, concerns? Dm me on twitter @mallardofglory
 
 Also this program is like 2 years old, im fairly certain some of this code is not mine, I just dont know where I got it from. If you find something similar, dm me on twitter so I can add the proper credits. 
